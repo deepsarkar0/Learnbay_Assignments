@@ -1,0 +1,4 @@
+Most articles consist of paragraphs and images (perhaps with other types of audiovisual media).
+However, articles may also be formatted as stand-alone lists or tables (not to be confused with disambiguation pages, which are purely navigation aids).
+These lists or tables are also considered articles for Wikipedia's purposes and are included in the Main/Article namespace, the one without a title prefix followed by a colon.
+On the this particular day of Christmas, the role of this uniform in red is used.
